@@ -8,6 +8,13 @@
 body{
     font-family: 'Lato', sans-serif;
 }
+html , body{
+    width: 100%;
+ 
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+}
 button:hover , .light-up:hover{
     background-color: white;
     color: #E55473;
